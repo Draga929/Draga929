@@ -1,6 +1,6 @@
 # Hi, I'm Ivan Bublikov
 ### Little about me
-* - I am currently studying at a software testing course Vadim Ksendzov *
+- *I am currently studying at a software testing course Vadim Ksendzov* 
 - This profession is new to me
 - There are a lot of practical tasks and homework on the course
 - I like this course, it's cool and clear
