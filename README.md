@@ -1,5 +1,6 @@
 # Hi, I'm Ivan Bublikov
 ### Little about me
+- I am looking for a job as a QA Engineer Junior
 - I am currently studying at a software testing course Vadim Ksendzov 
 - This profession is new to me
 - There are a lot of practical tasks and homework on the course
