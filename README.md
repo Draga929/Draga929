@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
+
 # Hi, I'm Ivan Bublikov
 ### Little about me
 - I am looking for a job as a QA Engineer Junior
