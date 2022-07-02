@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
-
 # Hi, I'm Ivan Bublikov
 ### Little about me
 - I am looking for a job as a QA Engineer Junior
@@ -11,3 +9,4 @@
 - I have created repositories with homework, here you will see them, marked HW
 - Link to my resume: https://drive.google.com/file/d/1iNkFsqZCclIsw5GZzqC046SRO8PX9klc/view?usp=sharing
 - "A dollar will never fly between an ass and a sofa" - © Bill Gates
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
