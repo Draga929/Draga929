@@ -7,5 +7,5 @@
 - I like this course, it's cool and clear
 - In Telegram, we have a group with 387 members. In the group, we exchange experiences, check homework
 - I have created repositories with homework, here you will see them, marked HW
- - Link to my resume: https://drive.google.com/file/d/1D4zrSCrjVcBfJbQK7XQmB4XAmkGR4kdl/view?usp=sharing
+ - Link to my resume: https://drive.google.com/file/d/13KLhf0VyBQzAwZQNFFHjkc06VQbpsW5W/view?usp=sharing
 - "A dollar will never fly between an ass and a sofa" - © Bill Gates
